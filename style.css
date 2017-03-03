@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+}
+
+.wrapper {
+  font-family: Baloo;
+}
+
+.main {
+  text-align: center;
+}
+
+h1 {
+
+}
+
+header {
+  background-color: rgba(255, 0, 0, 0.18);
+  padding: 1em 0em 1em 1em;
+  margin: 0em 0em 0em 0em;
+}
+
+#headerP {
+  margin: -1em 0em 1em 54em;
+}
+
+#weekBox {
+
+}
+
+table, th, tr {
+  border: solid black thick;
+  border-collapse: collapse;
+  padding: 1em 1em 1em 1em;
+  font-size: 1.25em;
+  margin-left: 1em;
+}
+
+th {
+  background-color: white;
+}
+
+#inputDate {
+  padding-top: 2em;
+  padding: 4em 0em 4em 0em;
+  background-color: rgba(0, 188, 212, 0.12);
+}
+
+#firstDate {
+  background-color: blue;
+  border-color: black;
+}
+
+#secondDate {
+  background-color: red;
+  border-color: black;
+}
+
+.rotate {
+  transform: rotate(-32deg);
+  margin: 0;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.white {
+  background-color: white;
+}
